@@ -73,7 +73,7 @@
 
 1. **Clone the repository**:  
    ```bash
-   git clone https://github.com/VibhuDixit-2215001940/LawFirm.git
+   git clone https://github.com/gargkrishna24/LawFirm.git
    cd LawFirm
    ```
 2. **Install dependencies**:
