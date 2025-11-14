@@ -139,6 +139,6 @@ For queries and contributions, reach out to:
 - **Name**: [krishna Garg]  
 - **Email**: gargkrishna888@gmail.com  
 - **GitHub**: [GitHub Profile](https://github.com/gargkrishna24)
-- **LinkedIn**: [Vibhu Dixit](https://www.linkedin.com/in/gargkrishna24/)
+- **LinkedIn**: [Krishna Garg](https://www.linkedin.com/in/gargkrishna24/)
 
 Feel free to fork this repository, raise issues, or contribute to its development. Together, we can make legal aid accessible to everyone!
